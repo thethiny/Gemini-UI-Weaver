@@ -1,0 +1,5 @@
+{
+  "name": "Gemini UI Weaver",
+  "description": "An application that uses AI to help you design and generate code for a web application dashboard or UI. Follow a step-by-step process to define your app, and get a downloadable HTML/CSS/JS file.",
+  "requestFramePermissions": []
+}
